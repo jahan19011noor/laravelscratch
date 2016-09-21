@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAMA;EAEC,wBAJY,EAKZ","file":"app.css","sourcesContent":["//          Contents for tutorial 6         //\n\n// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\n$color: brown;\n\nbody\n{\n\tbackground-color: $color;\n}\n\n//          Contents for tutorial 6 ends         //"],"sourceRoot":"/source/"}
